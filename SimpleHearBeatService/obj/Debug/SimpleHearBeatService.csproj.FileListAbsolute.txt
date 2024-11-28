@@ -1,0 +1,10 @@
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\bin\Debug\SimpleHearBeatService.exe.config
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\bin\Debug\SimpleHearBeatService.exe
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\bin\Debug\SimpleHearBeatService.pdb
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\bin\Debug\Topshelf.dll
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\bin\Debug\Topshelf.xml
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\obj\Debug\SimpleHearBeatService.csproj.AssemblyReference.cache
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\obj\Debug\SimpleHearBeatService.csproj.CoreCompileInputs.cache
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\obj\Debug\SimpleHe.7916ACE8.Up2Date
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\obj\Debug\SimpleHearBeatService.exe
+C:\Users\carolina.ruiz\source\repos\SimpleHearBeatService\SimpleHearBeatService\obj\Debug\SimpleHearBeatService.pdb
